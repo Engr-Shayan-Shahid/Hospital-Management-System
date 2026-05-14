@@ -1,0 +1,35 @@
+201#Dr. Kamran Yousaf#Cardiologist#10
+202#Dr. Sana Mirza#ENT#5
+203#Dr. Imran Malik#Neurologist#8
+204#Dr. Ayesha Farooq#Pediatrics#12
+205#Dr. Bilal Chaudhry#Orthopedics#7
+206#Dr. Hina Akhtar#Gynecology#15
+207#Dr. Tariq Shah#Dermatology#3
+208#Dr. Nadia Hussain#General Surgery#9
+209#Dr. Faisal Raza#Urology#6
+210#Dr. Zara Butt#Ophthalmology#11
+211#Dr. Asad Qureshi#Pulmonology#4
+212#Dr. Maryam Baig#Psychiatry#13
+213#Dr. Omer Siddiqui#Gastroenterology#2
+214#Dr. Lubna Khan#Radiology#16
+215#Dr. Waseem Anwar#Emergency Medicine#14
+216#Dr. Shoaib Akhtar#Nephrology#8
+217#Dr. Rabia Noor#Oncology#10
+218#Dr. Zeeshan Malik#Endocrinology#6
+219#Dr. Farah Hussain#Rheumatology#7
+220#Dr. Adnan Malik#Hematology#9
+221#Dr. Samina Raza#Infectious Disease#5
+222#Dr. Khalid Mehmood#Plastic Surgery#12
+223#Dr. Tahira Shah#Anesthesiology#11
+224#Dr. Naveed Ahmed#Vascular Surgery#8
+225#Dr. Bushra Fatima#Neonatology#6
+226#Dr. Irfan Baig#Sports Medicine#4
+227#Dr. Saima Khan#Allergy & Immunology#7
+228#Dr. Waqas Ali#Colorectal Surgery#9
+229#Dr. Amna Siddiqui#Geriatrics#13
+230#Dr. Rizwan Akhtar#Trauma Surgery#15
+231#Dr. Parveen Bibi#Obstetrics#10
+232#Dr. Shahzaib Raza#Neurosurgery#8
+233#Dr. Kiran Malik#Family Medicine#5
+234#Dr. Ghulam Nabi#Internal Medicine#17
+235#Dr. Uzma Fatima#Clinical Pathology#6
