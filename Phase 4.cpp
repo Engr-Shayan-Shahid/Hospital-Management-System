@@ -1,19 +1,3 @@
-// =============================================================================
-//  Hospital Management System - SFML GUI
-//  Phase D: Login + Main Menu + Patients + Doctors + Appointments
-//           + Treatments + Billing
-//
-//  What's new vs Phase C
-//  ---------------------
-//  - Treatment struct with patientid, description, cost, paid status
-//  - Treatment List with status badges (Paid/Unpaid)
-//  - Add/Edit treatment form with cost validation
-//  - Billing screen: process payment for a patient
-//    consultation fee (500) + pending treatment, deducted from balance
-//    marks treatment as paid, updates patient balance, writes bills.txt
-//  - treatments.txt and bills.txt match original program's format
-// =============================================================================
-
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <fstream>
