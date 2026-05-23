@@ -1,19 +1,3 @@
-// =============================================================================
-//  Hospital Management System - SFML GUI - FINAL (Phase E)
-//  All modules: Login, Dashboard, Patients, Doctors, Appointments,
-//               Treatments, Billing, Search & Reports
-//
-//  What's new vs Phase D
-//  ---------------------
-//  - Search & Reports hub with 5 tools (matches your original menu)
-//      1. Search patients by ID or name (substring, case-insensitive)
-//      2. Search doctors by ID or speciality
-//      3. Treatments by doctor (joins appointments + treatments)
-//      4. Sort doctors by experience (ascending, mutates doctor list)
-//      5. Overview / dashboard report (revenue, outstanding, counts)
-//  - All search results presented in the same table style as the lists
-// =============================================================================
-
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <fstream>
